@@ -33,6 +33,9 @@ unnecessarily complicated.
     - Use the resulting IDs to query SQLite and retrieve metadata.
     - Send the context to llm along with the query.
 
+**Preprocessing**:
+    - Place the final data folder(containg resume for different domains) in the root if you intend to run the code for preprocessing again. However, I have the index and the db here. So, it is possible to run and test against a query without any preprocessing.
+
 **Structure**:
     - vector_utils.py (faiss related code)
     - embed.py (embedding model)
