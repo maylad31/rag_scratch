@@ -31,7 +31,7 @@ unnecessarily complicated.
 **Perform query**:
     - Query FAISS to find nearest neighbors for a given vector.
     - Use the resulting IDs to query SQLite and retrieve metadata.
-    - Send to context to llm along with the query.
+    - Send the context to llm along with the query.
 
 **Structure**:
     - vector_utils.py (faiss related code)
