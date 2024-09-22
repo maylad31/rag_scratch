@@ -50,6 +50,8 @@ Import the conda environment 'environment.yml'.
     - set key in .env
     - open  127.0.0.1/docs
 
+![screenshot](test.png)
+
 
 
 
