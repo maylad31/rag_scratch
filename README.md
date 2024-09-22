@@ -2,7 +2,7 @@
 
 ## Detailed Solution
 
-RAG using faiss and sqlite. Why not langchain? I understand this code might be a bit difficult to set up initialy and is not the best currently, but once set up properly, organized and optimized more, can help to keep our pipeline more stable, give us more control and flexibility. Langchain like tools have too many breaking updates and are 
+RAG using faiss and sqlite. Why not langchain? I understand this code might be a bit difficult to set up initialy and is not the best currently, but once set up properly, organized and optimized more, can help to keep our pipeline more stable, give us more control and flexibility. Langchain like frameworks have too many breaking updates and are 
 unnecessarily complicated.
 
 
