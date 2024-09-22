@@ -2,7 +2,7 @@
 
 ## Overview
 
-RAG using faiss and sqlite. Why not langchain? I understand this code might be a bit difficult to set up initially and is not the best currently, but once set up properly, organized and optimized more, it can help to keep the pipeline more stable, give more control and flexibility. Langchain like frameworks have too many breaking updates and are unnecessarily complicated.
+RAG using faiss and sqlite. Why not langchain? I understand this code might be a bit difficult to set up initially and is not the best currently, but once set up properly, organized and optimized more, it can help to keep the pipeline more stable, give more control and flexibility. Langchain like frameworks have too many breaking updates and are unnecessarily complicated. It can be expanded for hybrid search using fts on sqlite, we can add other things like reranking,support for other llms(can be organized and optimized more).
 
 
 ## Detailed Solution
